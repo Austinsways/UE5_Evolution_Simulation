@@ -17,6 +17,9 @@ This code uses C++ and all the librarys generally included with Unreal Engine 5.
 * [Unreal Engine C++ Documentation](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/)
 * [W3 Schools C++ Tutorial](https://www.w3schools.com/CPP/default.asp)
 
+#notes about viewing/using the code 
+the code of the actual project is too bug too allput here, but the code uploaded is all modified and created files to be used within the engine.
+
 # Future Work
 
 * Add food/hunger to entitys
